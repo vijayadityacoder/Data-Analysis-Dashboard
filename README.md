@@ -6,6 +6,9 @@ cleaning, and data visualization.
 ## Project Objectives
 Creating a dynamic dashboard which shows the performance of the hotels of the company Atliq to increase the revenue of the company.
 
+## Access Dashboard
+- <a href="https://app.powerbi.com/groups/me/reports/6b3e0ce1-b4e2-4986-8014-42ddd2f19ac1/a702810e4f150c7468d0?experience=power-bi"> Dynamic Dashboard </a>
+
 ## Dataset link
 - <a href="https://drive.google.com/drive/folders/1hCkJA95kcpKV9XBn6ElczNzlvC--Us80?usp=sharing"> Dataset </a>
 ## Dashboard Screenshot
@@ -26,7 +29,7 @@ Creating a dynamic dashboard which shows the performance of the hotels of the co
 - No Show rate %
 - Booking % by Platform
 - Booking % by Room class
-- ADR 
+- ADR (Average Daily Rate)
 - Realisation %
 - RevPAR (Revenue Per Available Room)
 - DBRN (Daily Booked Room Nights)
