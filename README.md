@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5f92bbfa-b812-4ed3-bcb5-7c92e7b0777a)# Data-Analysis-Dashboard
+# Data-Analysis-Dashboard
 I developed a comrehensive project in Power BI, creating multiple and tables to analyze the data. This process involved several stages, including data preprocessing, data
 cleaning, and data visualization.
 
