@@ -8,7 +8,7 @@ Creating a dynamic dashboard which shows the performance of the hotels of the co
 
 ## Dataset link
 - <a href="https://drive.google.com/drive/folders/1hCkJA95kcpKV9XBn6ElczNzlvC--Us80?usp=sharing"> Dataset </a>
-## Screenshot
+## Dashboard Screenshot
 - <a href="https://github.com/vijayadityacoder/Data-Analysis-Dashboard/blob/main/Atliq%20hotels/Screenshot%202025-03-06%20131152.png"> Screenshot </a>
 
 ## Question KPIs
@@ -39,3 +39,8 @@ Creating a dynamic dashboard which shows the performance of the hotels of the co
 - Realisation WoW change %
 - DSRN WoW change %
 
+## Process
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one and apply slicer to make dynamic.
