@@ -8,7 +8,8 @@ Creating a dynamic dashboard which shows the performance of the hotels of the co
 
 ## Dataset link
 - <a href="https://drive.google.com/drive/folders/1hCkJA95kcpKV9XBn6ElczNzlvC--Us80?usp=sharing"> Dataset </a>
-
+## Screenshot
+- <a href="https://github.com/vijayadityacoder/Data-Analysis-Dashboard/blob/main/Atliq%20hotels/Screenshot%202025-03-06%20131152.png"> Screenshot </a>
 
 ## Question KPIs
 - Revenue
